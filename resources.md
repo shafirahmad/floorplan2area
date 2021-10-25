@@ -13,3 +13,6 @@ https://www.sciencedirect.com/science/article/pii/S2352711019302018
 https://www.sciencedirect.com/science/article/pii/S2352711019302018/pdfft?md5=e17a82482fd43217ea192599545a3100&pid=1-s2.0-S2352711019302018-main.pdf
 
 https://softwarerecs.stackexchange.com/questions/13613/pc-program-to-take-photos-of-documents-correct-perspective-rotate-and-crop-the
+
+http://x.photoscape.org/
+
