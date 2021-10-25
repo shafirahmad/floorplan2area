@@ -14,5 +14,7 @@ https://www.sciencedirect.com/science/article/pii/S2352711019302018/pdfft?md5=e1
 
 https://softwarerecs.stackexchange.com/questions/13613/pc-program-to-take-photos-of-documents-correct-perspective-rotate-and-crop-the
 
+http://lensfun.sourceforge.net/calibration-tutorial/lens-distortion.html
+
 http://x.photoscape.org/
 
