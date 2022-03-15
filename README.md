@@ -22,7 +22,7 @@ This program allows users to upoad a floor plan, do some quick area demarcations
 5) calulate no of color pixels based on scale
 
 ## Absolute bare minimum features to have (MVP):
-1) Upload image (already straightened)
+1) Upload image (pre-straightened, ie no perspective transform needed)
 2) Use ruler to calibrate x and y scaling
 3) fill needed area with pixels (rectangular) - single layer
 4) calculate no of pixels and multiply by scaling factor to get estimated floor area
