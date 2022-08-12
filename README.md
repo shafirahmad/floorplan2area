@@ -14,6 +14,11 @@ This program allows users to upoad a floor plan, do some quick area demarcations
 7) Add rulers/distance measurements to the final plan
 8) export the plan
 
+## Platform/Framework
+1) the idea is to create a desktop program (windowed) using for example pygame
+2) the ideal way would be to use this as a web application, but current python support for web is limited. 
+3) web integration could be acchieved by a JS frontend, interfacing to the python (is it necessary) algorithm via api/rest api
+
 ## Features needed (and wish list)
 1) Transorm image (potential fisheye corrections?) - or use another program to straighten the image first
 2) Layered drawing with overlay (semi-transparent)
